@@ -1,0 +1,14 @@
+/Users/minjinsorganbaatar/Desktop/FolderSync/bin/Debug/net8.0/FolderSync
+/Users/minjinsorganbaatar/Desktop/FolderSync/bin/Debug/net8.0/FolderSync.deps.json
+/Users/minjinsorganbaatar/Desktop/FolderSync/bin/Debug/net8.0/FolderSync.runtimeconfig.json
+/Users/minjinsorganbaatar/Desktop/FolderSync/bin/Debug/net8.0/FolderSync.dll
+/Users/minjinsorganbaatar/Desktop/FolderSync/bin/Debug/net8.0/FolderSync.pdb
+/Users/minjinsorganbaatar/Desktop/FolderSync/obj/Debug/net8.0/FolderSync.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minjinsorganbaatar/Desktop/FolderSync/obj/Debug/net8.0/FolderSync.AssemblyInfoInputs.cache
+/Users/minjinsorganbaatar/Desktop/FolderSync/obj/Debug/net8.0/FolderSync.AssemblyInfo.cs
+/Users/minjinsorganbaatar/Desktop/FolderSync/obj/Debug/net8.0/FolderSync.csproj.CoreCompileInputs.cache
+/Users/minjinsorganbaatar/Desktop/FolderSync/obj/Debug/net8.0/FolderSync.dll
+/Users/minjinsorganbaatar/Desktop/FolderSync/obj/Debug/net8.0/refint/FolderSync.dll
+/Users/minjinsorganbaatar/Desktop/FolderSync/obj/Debug/net8.0/FolderSync.pdb
+/Users/minjinsorganbaatar/Desktop/FolderSync/obj/Debug/net8.0/FolderSync.genruntimeconfig.cache
+/Users/minjinsorganbaatar/Desktop/FolderSync/obj/Debug/net8.0/ref/FolderSync.dll
